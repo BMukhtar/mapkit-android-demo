@@ -32,7 +32,7 @@ public class DrivingActivity extends Activity implements DrivingSession.DrivingR
      * Replace "your_api_key" with a valid developer key.
      * You can get it at the https://developer.tech.yandex.ru/ website.
      */
-    private final String MAPKIT_API_KEY = "your_api_key";
+    private final String MAPKIT_API_KEY = "23972de4-fa40-4c92-ba02-9590caadb861";
     private final Point ROUTE_START_LOCATION = new Point(59.959194, 30.407094);
     private final Point ROUTE_END_LOCATION = new Point(55.733330, 37.587649);
     private final Point SCREEN_CENTER = new Point(

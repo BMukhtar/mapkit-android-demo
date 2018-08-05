@@ -19,7 +19,7 @@ public class MapActivity extends Activity {
      * Replace "your_api_key" with a valid developer key.
      * You can get it at the https://developer.tech.yandex.ru/ website.
      */
-    private final String MAPKIT_API_KEY = "your_api_key";
+    private final String MAPKIT_API_KEY = "23972de4-fa40-4c92-ba02-9590caadb861";
     private final Point TARGET_LOCATION = new Point(59.945933, 30.320045);
 
     private MapView mapView;

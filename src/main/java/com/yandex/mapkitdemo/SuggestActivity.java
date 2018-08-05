@@ -33,7 +33,7 @@ public class SuggestActivity extends Activity implements SearchManager.SuggestLi
      * Replace "your_api_key" with a valid developer key.
      * You can get it at the https://developer.tech.yandex.ru/ website.
      */
-    private final String MAPKIT_API_KEY = "your_api_key";
+    private final String MAPKIT_API_KEY = "23972de4-fa40-4c92-ba02-9590caadb861";
     private final int RESULT_NUMBER_LIMIT = 5;
 
     private SearchManager searchManager;

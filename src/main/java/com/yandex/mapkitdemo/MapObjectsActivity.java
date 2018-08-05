@@ -32,7 +32,7 @@ public class MapObjectsActivity extends Activity {
      * Replace "your_api_key" with a valid developer key.
      * You can get it at the https://developer.tech.yandex.ru/ website.
      */
-    private final String MAPKIT_API_KEY = "your_api_key";
+    private final String MAPKIT_API_KEY = "23972de4-fa40-4c92-ba02-9590caadb861";
     private final Point CAMERA_TARGET = new Point(59.952, 30.318);
     private final Point ANIMATED_RECTANGLE_CENTER = new Point(59.956, 30.313);
     private final Point TRIANGLE_CENTER = new Point(59.948, 30.313);
